@@ -21,7 +21,7 @@ if((time() - $_SESSION['last_access']) > $durada_sessio ){
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Primera</title>
+		<title>Primera EDITAT</title>
 	</head>
 	<body>
 		<h1 style="text-align:center;">PRIMERA</h1>
